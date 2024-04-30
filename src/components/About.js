@@ -9,13 +9,13 @@ export default function About() {
           <h1 className="text-2xl md:text-3xl font-bold text-blue mb-2">
             Hello, I'm U Lam Lou.
           </h1>
-          <h1 className="title-font text-4xl md:text-5xl mb-4 font-bold text-darkblue">
+          <h3 className="title-font text-4xl md:text-5xl mb-4 font-bold text-darkblue">
             About Me
             <br className="hidden lg:inline-block" /> UX Researcher and Graphic
             Designer
-          </h1>
+          </h3>
           <p className="mb-8 leading-relaxed text-lighterblue text-lg">
-            B.S. Cognitive Science w/spec. Design and Interaction at UC San Diego.<br />
+            B.S. Cognitive Science w/spec. Design and Interaction at UC San Diego.<br/>
             Currently working in Healthcare Robotics Lab.<br/>
             Previously an instructional assistant in COGS 100 and Design 1.<br/>
             Worked as a graphic designer for Comfort Tone, an acapella group at UC San Diego.<br/>
