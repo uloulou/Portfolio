@@ -5,8 +5,7 @@ import Navbar from "./components/Navbar";
 
 export default function App() {
   const [currentPage, setCurrentPage] = useState("about");
-
-  // Function to handle page change
+  
   const handlePageChange = (page) => {
     setCurrentPage(page);
   };
