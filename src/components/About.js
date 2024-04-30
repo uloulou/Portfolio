@@ -6,7 +6,7 @@ export default function About() {
     <div className="bg-white">
       <div className="container mx-auto flex px-30 py-40 md:flex-row flex-col items-center">
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
-          <h2 className="text-2xl md:text-3xl font-bold text-darkblue mb-2">
+          <h2 className="text-2xl md:text-3xl font-bold text-blue mb-2">
             About Me
           </h2>
           <h1 className="title-font text-4xl md:text-5xl mb-4 font-bold text-darkblue">
