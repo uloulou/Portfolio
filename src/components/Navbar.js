@@ -8,7 +8,7 @@ export default function Navbar() {
           <a href="#About" className="mr-5 hover:text-white">
             About
           </a>
-          <a href="#skills" className="mr-5 hover:text-white">
+          <a href="#Skills" className="mr-5 hover:text-white">
             Skills
           </a>
         </nav>

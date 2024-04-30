@@ -2,6 +2,7 @@ import React from "react";
 
 export default function Skills() {
   return (
+    <section id="Skills">
     <div className="bg-white">
       <div className="container px-5 py-10 mx-auto">
         <div className="text-center mb-20">
@@ -23,6 +24,6 @@ export default function Skills() {
         </div>
       </div>
     </div>
+    </section>
   );
 }
-
