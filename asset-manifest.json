@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/COGS125/static/css/main.3059cefe.css",
+    "main.js": "/COGS125/static/js/main.aeceba26.js",
+    "static/js/453.ed3810f9.chunk.js": "/COGS125/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/COGS125/index.html",
+    "main.3059cefe.css.map": "/COGS125/static/css/main.3059cefe.css.map",
+    "main.aeceba26.js.map": "/COGS125/static/js/main.aeceba26.js.map",
+    "453.ed3810f9.chunk.js.map": "/COGS125/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3059cefe.css",
+    "static/js/main.aeceba26.js"
+  ]
+}
